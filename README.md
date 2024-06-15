@@ -1,4 +1,4 @@
-## This is repository containing the presentation for PyData Southampton lightning talk on the 16th Jan 2024 and code to replicate results. 
+## This is repository containing the presentation for PyData Southampton lightning talk on the 16th Jan 2024, PyData London lightning talk on the 16th June 2024 and code to replicate results. 
 
 The talk is on optimising your journey for a satisfyingly speedier commute. This uses the google maps Routes API for a car journey. Other modes of transport are available. The routes documentation can be found here (https://developers.google.com/maps/documentation/routes). Example code is in the template code file.
 
